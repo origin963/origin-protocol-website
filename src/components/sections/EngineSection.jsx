@@ -1,4 +1,5 @@
 import React from 'react';
+import sacredCycleImg from '../../assets/sacred-cycle.png';
 
 const EngineSection = () => {
   return (
@@ -15,7 +16,7 @@ const EngineSection = () => {
         <div className="sacred-cycle">
           <div className="cycle-visualization">
             <img 
-              src="/assets/sacred-cycle.png" 
+              src={sacredCycleImg} 
               alt="The Sacred Cycle" 
               className="cycle-image"
             />

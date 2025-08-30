@@ -1,4 +1,5 @@
 import React from 'react';
+import seedOfLifeImg from '../../assets/seed-of-life.png';
 
 const InvitationSection = () => {
   return (
@@ -19,7 +20,7 @@ const InvitationSection = () => {
           </div>
           <div className="blueprint-animation">
             <img 
-              src="/assets/seed-of-life.png" 
+              src={seedOfLifeImg} 
               alt="The Blueprint - Seed of Life" 
               className="breathing-blueprint sacred-pulse will-animate"
             />
