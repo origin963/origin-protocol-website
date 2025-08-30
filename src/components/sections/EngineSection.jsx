@@ -15,7 +15,7 @@ const EngineSection = () => {
         <div className="sacred-cycle">
           <div className="cycle-visualization">
             <img 
-              src="/src/assets/sacred-cycle.png" 
+              src="/assets/sacred-cycle.png" 
               alt="The Sacred Cycle" 
               className="cycle-image"
             />

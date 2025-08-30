@@ -19,7 +19,7 @@ const InvitationSection = () => {
           </div>
           <div className="blueprint-animation">
             <img 
-              src="/src/assets/seed-of-life.png" 
+              src="/assets/seed-of-life.png" 
               alt="The Blueprint - Seed of Life" 
               className="breathing-blueprint sacred-pulse will-animate"
             />

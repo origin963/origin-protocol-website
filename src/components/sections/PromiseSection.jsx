@@ -15,7 +15,7 @@ const PromiseSection = () => {
           {/* Promise 1: Funding */}
           <div className="promise-card">
             <div className="promise-icon">
-              <img src="/src/assets/funding-icon.png" alt="Funding" />
+              <img src="/assets/funding-icon.png" alt="Funding" />
             </div>
             <h3 className="promise-name">Funding</h3>
             <p className="promise-description">
@@ -33,7 +33,7 @@ const PromiseSection = () => {
           {/* Promise 2: Protection */}
           <div className="promise-card">
             <div className="promise-icon">
-              <img src="/src/assets/protection-icon.png" alt="Protection" />
+              <img src="/assets/protection-icon.png" alt="Protection" />
             </div>
             <h3 className="promise-name">Protection</h3>
             <p className="promise-description">
@@ -51,7 +51,7 @@ const PromiseSection = () => {
           {/* Promise 3: Support */}
           <div className="promise-card">
             <div className="promise-icon">
-              <img src="/src/assets/support-icon.png" alt="Support" />
+              <img src="/assets/support-icon.png" alt="Support" />
             </div>
             <h3 className="promise-name">Support</h3>
             <p className="promise-description">
@@ -70,7 +70,7 @@ const PromiseSection = () => {
         {/* The Silent Spark */}
         <div className="creator-representation">
           <div className="creator-image">
-            <img src="/src/assets/hero-background.png" alt="The Silent Spark - Creator" />
+            <img src="/assets/hero-background.png" alt="The Silent Spark - Creator" />
           </div>
           <div className="creator-message">
             <h3>Every creator deserves to see their vision realized</h3>
